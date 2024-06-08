@@ -2,10 +2,11 @@
 
 This is a web based application developed for health related based website in india
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://mango-tree-029433500.5.azurestaticapps.net
+**Project Demo Video** - https://drive.google.com/file/d/1dIQMDhVK179d4qiLsA1AjxtxofnSWXN_/view?usp=sharing
 
 ## Azure technologies used for project
 
@@ -41,7 +42,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (21)](https://github.com/delhiganeshv/FRT_project/assets/85207464/4935ead1-644b-4161-ab9f-1efef0a0e992)
 
 
-##Health Bot
+## Health Bot
 ![Screenshot (23)](https://github.com/delhiganeshv/FRT_project/assets/85207464/e1547cd5-6625-4fef-a1f3-1a19d794d60b)
 
 ## Tech Stack 💻
