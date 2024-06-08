@@ -1,6 +1,6 @@
-# ✨ SPAW  ✨
+# ✨ SPAW HEALTH ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for health related based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -23,25 +23,26 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+ 
 
 
+   ![Screenshot (18)](https://github.com/delhiganeshv/FRT_project/assets/85207464/5c62095e-7fbd-41a5-9ee0-a3af8c6506b6)
 
-   
 
 ### About Us -
 
+![Screenshot (19)](https://github.com/delhiganeshv/FRT_project/assets/85207464/d2a27bc5-6daf-4e8c-9752-46f7e3cf4126)
+
+## Services
+![Screenshot (20)](https://github.com/delhiganeshv/FRT_project/assets/85207464/d76d3f60-96bf-482e-abc4-288b8dcb2daf)
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+### Contact us -
+![Screenshot (21)](https://github.com/delhiganeshv/FRT_project/assets/85207464/4935ead1-644b-4161-ab9f-1efef0a0e992)
 
 
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
+##Health Bot
+![Screenshot (23)](https://github.com/delhiganeshv/FRT_project/assets/85207464/e1547cd5-6625-4fef-a1f3-1a19d794d60b)
 
 ## Tech Stack 💻
 
